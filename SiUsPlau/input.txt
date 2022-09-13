@@ -1,0 +1,10 @@
+funcio enter fact(enter n) {
+var enter sol = 1.
+¿ n > 0 ? {
+sol = n * fact(n-1).
+}
+tornar sol.
+}
+var enter n.
+llegeix n.
+escriu fact(n).
